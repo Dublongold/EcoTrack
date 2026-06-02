@@ -1,0 +1,227 @@
+[
+  {
+    "question": "What should you do with used batteries?",
+    "answers": [
+      "Put them in the paper recycling bin",
+      "+Take them to a battery recycling or hazardous waste collection point",
+      "Burn them",
+      "Throw them in the regular trash"
+    ]
+  },
+  {
+    "question": "Which item usually belongs in a recycling bin for paper?",
+    "answers": [
+      "Greasy pizza box",
+      "Used tissue",
+      "+Clean cardboard box",
+      "Plastic bag"
+    ]
+  },
+  {
+    "question": "What should you do with old paint, solvents, or strong chemicals?",
+    "answers": [
+      "+Bring them to a hazardous waste collection facility",
+      "Pour them down the drain",
+      "Throw them into regular trash",
+      "Leave them outside near a bin"
+    ]
+  },
+  {
+    "question": "Which action helps reduce plastic waste the most?",
+    "answers": [
+      "Throwing plastic into nature",
+      "Burning plastic at home",
+      "+Using a reusable bottle or cup",
+      "Buying single-use plastic bottles every day"
+    ]
+  },
+  {
+    "question": "What should you do before recycling a plastic food container?",
+    "answers": [
+      "Put it inside a tied plastic bag",
+      "Fill it with food scraps",
+      "Mix it with batteries",
+      "+Empty it and rinse it if possible"
+    ]
+  },
+  {
+    "question": "Where should electronic waste such as old phones or chargers go?",
+    "answers": [
+      "+To an e-waste collection or recycling point",
+      "Into regular household trash",
+      "Into a river or lake",
+      "Into the compost bin"
+    ]
+  },
+  {
+    "question": "Which of these is the best eco-friendly choice when shopping?",
+    "answers": [
+      "+Choose products with less packaging",
+      "Buy many small single-use packages",
+      "Ignore recycling labels",
+      "Always take a new plastic bag"
+    ]
+  },
+  {
+    "question": "What should you do with used cooking oil?",
+    "answers": [
+      "+Collect it and take it to a proper disposal or recycling point if available",
+      "Pour it into the sink",
+      "Mix it with paper recycling",
+      "Pour it into the soil"
+    ]
+  },
+  {
+    "question": "Which item can usually be composted?",
+    "answers": [
+      "Glass bottle",
+      "Battery",
+      "+Fruit and vegetable scraps",
+      "Plastic wrapper"
+    ]
+  },
+  {
+    "question": "Why should plastic bags not be placed loose in many recycling bins?",
+    "answers": [
+      "They become compost quickly",
+      "They clean other recyclables",
+      "+They can clog sorting machines",
+      "They make batteries safer"
+    ]
+  },
+  {
+    "question": "What is the safest way to dispose of expired medicine?",
+    "answers": [
+      "Flush all medicines down the toilet",
+      "Put them in the paper bin",
+      "Throw them into nature",
+      "+Use a pharmacy take-back program or approved collection point"
+    ]
+  },
+  {
+    "question": "Which behavior is best for saving energy at home?",
+    "answers": [
+      "Leave all devices running all day",
+      "+Turn off lights and devices when not in use",
+      "Use more electricity than needed",
+      "Keep windows open while heating"
+    ]
+  },
+  {
+    "question": "What should you do with broken glass?",
+    "answers": [
+      "+Wrap it safely and follow local disposal rules",
+      "Mix it with paper recycling",
+      "Put loose sharp pieces into a public bin",
+      "Throw it on the ground"
+    ]
+  },
+  {
+    "question": "Which item is dangerous to burn at home?",
+    "answers": [
+      "Dry untreated wood in a safe fireplace",
+      "+Plastic waste",
+      "Natural firewood",
+      "Plain paper in a controlled setting"
+    ]
+  },
+  {
+    "question": "What does the recycling symbol on packaging usually mean?",
+    "answers": [
+      "The item is always compostable",
+      "The item must be thrown into nature",
+      "The item is dangerous to touch",
+      "+The material may be recyclable, depending on local rules"
+    ]
+  },
+  {
+    "question": "What should you do with fluorescent bulbs or lamps containing mercury?",
+    "answers": [
+      "Put them in food waste",
+      "Burn them",
+      "Break them and throw them away",
+      "+Take them to a special collection point for hazardous waste"
+    ]
+  },
+  {
+    "question": "Which choice is best for reducing food waste?",
+    "answers": [
+      "Throw away food before checking if it is still safe",
+      "Avoid using leftovers",
+      "Buy more food than you can eat",
+      "+Plan meals and store food properly"
+    ]
+  },
+  {
+    "question": "What should you do if you are unsure whether an item is recyclable?",
+    "answers": [
+      "+Check local recycling guidelines",
+      "Guess and put everything in one bin",
+      "Throw it into the street",
+      "Burn it"
+    ]
+  },
+  {
+    "question": "Which item should not go into a regular compost bin?",
+    "answers": [
+      "Coffee grounds",
+      "Dry leaves",
+      "+Plastic packaging",
+      "Apple peel"
+    ]
+  },
+  {
+    "question": "Why is it important to separate hazardous waste from regular waste?",
+    "answers": [
+      "It makes recycling unnecessary",
+      "It turns all waste into paper",
+      "It makes trash smell better",
+      "+It can harm people, animals, water, and soil"
+    ]
+  },
+  {
+    "question": "What is the best way to handle reusable clothes you no longer need?",
+    "answers": [
+      "Throw them away immediately",
+      "Put them in glass recycling",
+      "+Donate, sell, or give them away",
+      "Burn them outdoors"
+    ]
+  },
+  {
+    "question": "Which action helps protect water from pollution?",
+    "answers": [
+      "Throw batteries into water",
+      "Pour motor oil into a storm drain",
+      "Wash paint brushes directly into rivers",
+      "+Never pour chemicals, oil, or paint into drains"
+    ]
+  },
+  {
+    "question": "What should you do with aerosol cans?",
+    "answers": [
+      "Puncture or burn them",
+      "Throw them into compost",
+      "Put full cans in regular recycling",
+      "+Follow local rules; recycle only if empty and accepted"
+    ]
+  },
+  {
+    "question": "Which option is usually better than throwing something away?",
+    "answers": [
+      "+Repairing or reusing it",
+      "Mixing it with hazardous waste",
+      "Buying a replacement immediately",
+      "Dumping it outside"
+    ]
+  },
+  {
+    "question": "What should you do with motor oil or car fluids?",
+    "answers": [
+      "Pour them onto the ground",
+      "Pour them into a drain",
+      "+Take them to an auto shop or hazardous waste collection point",
+      "Mix them with household trash"
+    ]
+  }
+]
