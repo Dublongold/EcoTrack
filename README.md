@@ -60,37 +60,17 @@ app/src/main/java/com/ecohabit/ecotrack/
 
 The screenshots below are stored in the repository root under `screenshots/`.
 
-### Dashboard
+| Dashboard | Daily Habit Tracker | Waste Counter |
+| --- | --- | --- |
+| <img src="screenshots/dashboard.png" width="220"/> | <img src="screenshots/daily_habit_tracker.png" width="220"/> | <img src="screenshots/waste_counter.png" width="220"/> |
 
-![Dashboard](screenshots/dashboard.png)
+| Savings Tracker | Eco Action Planner | Prioritize Goals |
+| --- | --- | --- |
+| <img src="screenshots/savings_tracker.png" width="220"/> | <img src="screenshots/eco_action_planner.png" width="220"/> | <img src="screenshots/prioritize_goals.png" width="220"/> |
 
-### Daily Habit Tracker
-
-![Daily Habit Tracker](screenshots/daily_habit_tracker.png)
-
-### Waste Counter
-
-![Waste Counter](screenshots/waste_counter.png)
-
-### Savings Tracker
-
-![Savings Tracker](screenshots/savings_tracker.png)
-
-### Eco Action Planner
-
-![Eco Action Planner](screenshots/eco_action_planner.png)
-
-### Prioritize Goals
-
-![Prioritize Goals](screenshots/prioritize_goals.png)
-
-### Quiz
-
-![Quiz](screenshots/quiz.png)
-
-### Healthy Foods Checker
-
-![Healthy Foods Checker](screenshots/healthy_foods_checker.png)
+| Quiz | Healthy Foods Checker |
+| --- | --- |
+| <img src="screenshots/quiz.png" width="220"/> | <img src="screenshots/healthy_foods_checker.png" width="220"/> |
 
 ## Notes
 
